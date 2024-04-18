@@ -1,4 +1,4 @@
-# Sistema de Registro de Empleados
+# Sistema de Registro de Personal (SRP)
 
 ## Summary
 
